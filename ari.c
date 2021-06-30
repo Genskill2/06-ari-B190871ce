@@ -120,5 +120,5 @@ string ari(string str)
         }
     }
 
-    return NULL;
+    return "not found";
 }
